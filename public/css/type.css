@@ -1,0 +1,37 @@
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif!important;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif!important;
+}
+
+.hero-text {
+  margin: 1em 0 .25em 0;
+}
+
+.hero-body {
+
+}
+
+.experience-title {
+  font-weight: 700;
+  font-size: 1.25rem;
+  font-family: 'Montserrat', sans-serif!important;
+}
+
+.experience-italics {
+  margin: 0 0 0 0.5rem;
+  font-size: 1.25rem;
+  font-style: italic;
+  
+}
+
+.footer {
+  margin: 3rem 0;
+  text-align: center;
+}
