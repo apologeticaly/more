@@ -15,7 +15,8 @@ export default function Home() {
         <Row>
           <Col sm={6}>
             <h1 className="hero-text">I'm Muhammed Saifullah</h1>
-            <p className="hero-body">In Lexington, he earned All-State, All-City, and All-Star honors at athletic powerhouse Bryan
+            <p className="hero-body">Coach Muhammad is originally a Lexington, Kentucky native who now resides in the Bay Area.
+            In Lexington, he earned All-State, All-City, and All-Star honors at athletic powerhouse Bryan
             Station High School. During his high school athletic career, Coach Muhammad demonstrated outstanding leadership qualities 
             that led to the nomination of captain of his football, track & field, as well as wrestling team. This experience has allowed 
             Coach Muhammad to smoothly navigate the process of high school athletic recruiting as well as the next stage of collegiate athletics</p>
