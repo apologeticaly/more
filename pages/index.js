@@ -14,7 +14,7 @@ export default function Home() {
         <Navigation/>
         <Row>
           <Col sm={6}>
-            <h1 className="hero-text">I'm Muhammed Saifullah</h1>
+            <h1 className="hero-text">I'm Muhammad Saifullah</h1>
             <p className="hero-body">Coach Muhammad is originally a Lexington, Kentucky native who now resides in the Bay Area.
             In Lexington, he earned All-State, All-City, and All-Star honors at athletic powerhouse Bryan
             Station High School. During his high school athletic career, Coach Muhammad demonstrated outstanding leadership qualities 
@@ -32,7 +32,7 @@ export default function Home() {
           </Col>
           <Col sm={6}>
             <div>
-              <img className="bio-img" src="/img/bio.png"></img>
+              <img className="bio-img" src="/img/bio_1.png"></img>
             </div>
           </Col>
         </Row>

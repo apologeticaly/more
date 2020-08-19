@@ -12,6 +12,7 @@ export default function Navigation() {
         <Navbar.Collapse id="navbarNavAltMarkup">
             <Nav className="ml-auto">
                 <Link href='/experience'><a className="nav-link" id="nav-link">Experience</a></Link>
+                <Link href='/moreya'><a className="nav-link" id="nav-link">Young Athletes</a></Link>
                 <Link href='/testimonials'><a className="nav-link" id="nav-link">Testimonials</a></Link>
             </Nav>
 

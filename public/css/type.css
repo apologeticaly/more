@@ -35,3 +35,12 @@ h2 {
   margin: 3rem 0;
   text-align: center;
 }
+
+.testimonial {
+  margin: 5rem 0 .5rem 0;
+}
+
+.testimonial-name {
+  font-weight: 900;
+  text-align: center;
+}
